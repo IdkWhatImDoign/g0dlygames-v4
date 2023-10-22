@@ -58,7 +58,7 @@ You can host our website on a cloud hosting solution like Replit or Render here.
 [![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/3kh0/website-v4/archive/refs/heads/main.zip)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F3kh0%2Fwebsite-v4) 
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/3kh0/website-v4)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/3kh0/website-v4)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/IdkWhatImDoign/website-v4)
 
 ## Docs
 The official 3kh0 docs can be found [here](https://3kh0.gitbook.io/wiki/). If you want to make a theme this is the place!
